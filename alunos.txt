@@ -1,0 +1,10 @@
+Matricula  |                   Nome                   | Sexo | Data de Nascimento |  Telefone  | Quantidade de Disciplina |   Status  
+-----------+------------------------------------------+------+--------------------+------------+--------------------------+----------
+UFRPE7405D |              MARCILIO SILVA              |  M   |     1993/11/04     | 8135255705 |            0             |  TRANCADO
+UFRPE7405F |               JUNIOR SILVA               |  M   |     1993/05/07     | 8135255705 |            0             |     ATIVO
+UFRPE7405G |               FULANO SILVA               |  M   |     1993/05/09     | 8135255705 |            0             |     ATIVO
+UFRPE7405E |               LUCAS SILVA                |  M   |     1993/05/06     | 8135255705 |            0             |     ATIVO
+UFRPE7405J |               MARIA SILVA                |  F   |     1993/11/10     | 8135255705 |            0             |     ATIVO
+UFRPE7405H |              JULIANA SILVA               |  F   |     1993/11/05     | 8135255705 |            0             |     ATIVO
+UFRPE7405I |               LAIS SILVA                 |  F   |     1993/11/08     | 8135255705 |            0             |     ATIVO
+

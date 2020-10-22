@@ -1,0 +1,7 @@
+Codigo Disciplina | Matricula do Aluno |       Data       |   Status  
+------------------+--------------------+------------------+------------+
+DISC9037W         |     UFRPE7405D     |    2019-06-26    |   TRANCADO
+DISC9038W         |     UFRPE7405D     |    2019-06-26    |   TRANCADO
+DISC9039W         |     UFRPE7405D     |    2019-06-26    |   TRANCADO
+DISC9040W         |     UFRPE7405D     |    2019-06-26    |   TRANCADO
+DISC9041W         |     UFRPE7405D     |    2019-06-26    |   TRANCADO
